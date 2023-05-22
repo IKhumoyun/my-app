@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deploy React to Firebase with GitHub actions
+          Assalomu aleykum hurmatli Dasturchilar
         </a>
       </header>
     </div>
