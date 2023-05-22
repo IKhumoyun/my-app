@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Deploy React to Firebase with GitHub actions
         </a>
       </header>
     </div>
